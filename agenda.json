@@ -1,9 +1,14 @@
 {
   "title": "Title of the agenda",
   "kind": "open-agenda",
-  "question": "The question every other question in this agenda helps to settle?",
+  "question": "State the guiding research question in one sentence?",
   "created": "2026-10-07T00:00:00Z",
-  "summary": "Why the question matters, what is known, and what would count as progress, in one paragraph.",
-  "maintainers": ["your-github-login"],
-  "tags": []
+  "maintainers": [
+    "your-github-login"
+  ],
+  "tags": [],
+  "image": {
+    "path": "images/agenda.jpg",
+    "alt": "Describe the illustration you generate for this agenda."
+  }
 }
