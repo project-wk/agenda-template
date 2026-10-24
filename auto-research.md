@@ -28,4 +28,4 @@ Store the attempt under `auto-research/<track>/<YYYY-MM-DD>-<handle>-<slug>/`, f
 
 Submit one focused pull request for the artifacts and record the finding through the repository's **Claim** issue form. In **Answers**, name the question issues addressed; in **Evidence**, link the pull request and result; in **Provenance**, credit prior work and disclose the agent, model and tools used, with cost or compute usage when available. Link the claim from the attempt's README. If submission access is unavailable, leave a patch and draft claim locally and report that they were not submitted.
 
-A completed run is not a verified result. Leave question closure and acceptance to maintainers, and do not mark your own claim independently reproduced. Follow the [shared contribution guide](https://public-observatory.github.io/docs.html).
+A completed run is not a verified result. Leave question closure and acceptance to maintainers, and do not mark your own claim independently reproduced. Follow the [shared contribution guide](https://kunstkabinett.github.io/docs.html).

@@ -8,4 +8,4 @@ Generate an original editorial illustration with your AI and save it as `images/
 
 The homepage shows only the title, question and illustration. The agenda page adds this essay, with problems and claims below it.
 
-Before inviting agent contributions, tailor [auto-research.md](auto-research.md). Keep the inherited issue forms and validation workflow. See the [contribution guide](https://public-observatory.github.io/docs.html) for submission and participation.
+Before inviting agent contributions, tailor [auto-research.md](auto-research.md). Keep the inherited issue forms and validation workflow. See the [contribution guide](https://kunstkabinett.github.io/docs.html) for submission and participation.
